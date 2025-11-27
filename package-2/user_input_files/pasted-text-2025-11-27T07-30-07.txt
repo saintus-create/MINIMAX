@@ -1,0 +1,1085 @@
+list 25 more in this group: what aboout layout, proximity, ratio, form, juxtaposition, relativity, scale, zoom, pixel isual and spatial principles
+Of course. This is an excellent list of core visual and spatial principles. The concepts of layout, proximity, ratio, etc., form the foundation of design in any medium.
+
+Here are 25 more principles that belong in the same group, expanding on the ideas of how we organize, perceive, and are affected by visual information.
+
+Gestalt Principles (The Psychology of Grouping)
+
+Closure: The mind fills in missing information to perceive complete shapes.
+Similarity: Elements that look similar (in shape, color, size) are perceived as related or part of a group.
+Continuation: The eye follows a line or curve beyond its endpoint, preferring a continuous path over abrupt changes.
+Common Fate: Elements that move together (in the same direction and speed) are perceived as a single group.
+Focal Point: A point of emphasis that stands out and draws the viewer's attention first.
+Principles of Composition & Structure
+
+Hierarchy: The arrangement of elements to imply importance, guiding the viewer through content in a specific order.
+Balance: The distribution of visual weight, which can be symmetrical (formal), asymmetrical (dynamic), or radial (from a center point).
+Contrast: The difference between elements (e.g., light vs. dark, large vs. small, rough vs. smooth) used to create visual interest and emphasis.
+Repetition: Reusing the same or similar elements throughout a design to create consistency and unity.
+Rhythm: A patterned repetition or alternation of elements to create a sense of movement or flow.
+Pattern: A repeating decorative design, often built from repetition.
+Alignment: The placement of elements so their edges or axes line up, creating order and a visual connection.
+Grid: A underlying structure of intersecting lines used to organize content systematically.
+Modularity: Designing with standardized units or sections for flexibility and consistency.
+Principles of Form & Space
+
+Figure/Ground (Positive/Negative Space): The relationship between the subject (figure) and its surrounding area (ground). A core Gestalt principle.
+White Space (Negative Space): The empty space around and between elements; it is not merely "blank" but an active element that defines and gives the composition room to breathe.
+Density: The amount of visual elements packed into a given area; high density feels busy, low density feels airy.
+Transparency: The quality of being see-through; layers of transparency can create complexity and depth.
+Overlap: When one element covers part of another, creating a sense of depth and layering.
+Principles of Perception & Effect
+
+Unity/Harmony: The cohesive force that holds a design together, making all elements feel like they belong.
+Variety: The use of differing elements to create visual interest and complexity, counteracting monotony.
+Economy (or Simplicity): Using only the essential elements to convey an idea; "less is more."
+Movement: The path the viewer's eye takes through a composition, often guided by lines, edges, shapes, and color.
+Depth: The illusion of three-dimensional space on a two-dimensional surface, created through perspective, shadow, and overlap.
+Texture: The perceived surface quality of a design (e.g., rough, smooth, glossy), which can be tactile or visual.
+These principles are not used in isolation but are constantly interacting with each other. A good designer understands how to balance them—for example, using contrast to establish hierarchy, or repetition to create rhythm within a grid—to create effective and compelling visual communication.
+how about 50n more
+Of course. You've tapped into the core lexicon of design theory. To list 50 more, we need to delve deeper into specialized, psychological, technical, and conceptual principles that govern visual and spatial design.
+
+Here are 50 more principles, categorized for clarity:
+
+A. Foundational & Formal Principles (Expanded)
+
+Axis: An imaginary line used to organize elements and create a sense of order and stability.
+Datumn: A structural, organizational system or framework (like a grid) that holds information.
+Tension: A dynamic, often uncomfortable, relationship between elements created by imbalance, contrast, or incongruity.
+Play: The intentional use of whimsy, unpredictability, or interaction to engage the viewer.
+Costume: The "dressing" or stylistic treatment of an element that defines its character.
+Echo: A softer form of repetition where a visual motif is recalled but not exactly duplicated.
+Gravity: The visual weight and implied downward pull of elements, affecting balance.
+Volume: The illusion of mass or 3D space occupied by an element.
+Profusion: An abundance of elements, often chaotic, used to create a rich, dense effect.
+Parataxis: The placement of elements side-by-side without hierarchical organization or connecting elements, leaving interpretation open.
+B. Principles of Perception & Psychology (Gestalt & Beyond)
+
+Pragnanz (Law of Simplicity): The mind perceives ambiguous or complex images in the simplest form possible.
+Past Experience: We perceive objects based on our prior encounters with similar objects.
+Symmetry: The visual quality of being made up of similar parts facing each other or around an axis, which the mind seeks out and finds satisfying.
+Parallelism: Elements that are parallel to each other are perceived as related.
+Common Region: Elements located within the same bounded area are perceived as a group.
+Synchrony: Elements that change at the same time (e.g., blinking in unison) are perceived as related.
+Connectedness: Elements that are physically connected are perceived as a single unit.
+Figure-Ground Reversal: An ambiguous composition where the positive and negative space compete for attention.
+Anomaly: A single element that breaks a pattern, immediately becoming a focal point.
+Affordance: A visual cue that suggests how an object is meant to be used (e.g., a button looks pressable).
+C. Principles of Color & Light
+
+Hue: The pure state of a color, its position on the color wheel.
+Saturation: The intensity or purity of a color.
+Value (or Brightness): The lightness or darkness of a color.
+Temperature: The perceived warmth (reds, oranges) or coolness (blues, greens) of a color.
+Harmony: The theory of combining colors in a way that is pleasing to the eye.
+Luminance: The measured amount of light coming from a surface.
+Opacity / Transparency: The degree to which a material blocks or allows light to pass through.
+Reflectivity: The quality of a surface to throw back light.
+Gradient: A gradual transition between colors or values.
+Simultaneous Contrast: The effect where a color appears different depending on the colors that surround it.
+D. Principles of Typography & Language
+
+Readability: The ease with which a body of text can be read.
+Legibility: The ease with which a single character or word can be distinguished.
+Kerning: The adjustment of space between two specific characters.
+Tracking (Letter-spacing): The uniform adjustment of space across a range of characters.
+Leading (Line-spacing): The vertical space between lines of text.
+Measure: The length of a line of text.
+Rag: The irregular or uneven vertical edge of a block of text (left or right).
+Voice: The personality conveyed through typographic choices.
+Orphan/Widow: A single word or short line at the start or end of a paragraph, separated from the rest, considered poor typography.
+E. Principles of Motion & Time
+
+Timing: The speed and rhythm of an animation or transition.
+Easing: The acceleration and deceleration of movement, making it feel natural.
+Anticipation: A preliminary action that prepares the viewer for a main action.
+Follow-Through & Overlapping Action: The idea that different parts of a system will move at different rates and stop at different times.
+Staging: Presentening an idea so it is unmistakably clear.
+Trajectory: The path a moving object follows.
+Transformation: The morphing of one shape or object into another.
+F. Principles of Systems & Interaction
+
+Modality: A mode that temporarily takes the user out of the main flow to complete a task (e.g., a pop-up dialog).
+Feedback: A visual, auditory, or haptic response to a user's action.
+Mapping: The relationship between a control and its effect (e.g., a steering wheel turns the car).
+Constraint: Limiting the possible actions to guide a user and prevent error.
+This expanded list shows how these principles scale from the atomic level (a pixel) to complex systems (user interaction), and from concrete rules (alignment) to abstract psychological effects (play).
+any missing or is that it
+That's an excellent and insightful question. The previous lists (over 75 principles) cover a massive amount of ground, but the world of visual and spatial organization is a living field of study. It is not complete, and there will always be more to add, especially as technology and culture evolve.
+
+The principles we've listed are the foundational, timeless "rules of the game." But beyond that, there are emerging concepts, meta-principles, and deeper philosophical underpinnings.
+
+Here is a list of what could be considered "missing," moving from concrete concepts to more abstract ideas.
+
+Meta-Principles & Overarching Concepts
+
+These are the "principles about principles" that govern how the others are applied.
+
+Iteration: The process of cyclical creation, feedback, and refinement is itself a core principle of achieving good design.
+Layering: The organization of information or visual elements into discrete, stackable levels to manage complexity.
+Transformation: The principle of change from one state to another, fundamental to animation, interaction, and conceptual art.
+Orchestration: The skillful combination of all principles into a single, cohesive, and purposeful whole. It's the principle of synthesis.
+Reduction: The process of systematically removing non-essential elements to reveal the simplest, most powerful form or idea (related to, but distinct from, Simplicity).
+Defamiliarization: Making the familiar strange to force the viewer to see it in a new way, challenging conventional perception.
+Narrative & Storytelling: Using visual sequence and composition to imply a story, a passage of time, or a cause-and-effect relationship.
+Personality & Voice: The principle that a design has a character or tone—it can be serious, playful, authoritative, or friendly.
+Principles from Specific Disciplines
+
+These are crucial in fields like UX, data viz, and architecture.
+
+Wayfinding: The spatial problem-solving of orienting a user and guiding them through a physical or digital environment.
+Signal-to-Noise Ratio: The ratio of relevant information (signal) to irrelevant or redundant information (noise). A core data viz principle.
+Chunking: Breaking information into small, distinct units of information to improve memory and comprehension.
+Progressive Disclosure: Showing only the necessary information first, and revealing more complex options as needed, to avoid overwhelming the user.
+Forgiveness: Designing systems that allow for and help recover from user error.
+Accessibility: The principle that design must be usable by people with the widest possible range of abilities.
+Sustainability: The consideration of the environmental, social, and economic impact of a design over its entire lifecycle.
+Program: In architecture and urban design, this is the concept of what a space is for—the mix of activities and functions it must support, which dictates its form.
+Circulation: The principle of movement through a space; the paths of entry, exit, and flow.
+Conceptual & Philosophical Principles
+
+These are the "why" behind the "what."
+
+Intention: The most fundamental principle of all: every element in a composition should be there for a reason.
+Context: The principle that a design does not exist in a vacuum; its meaning and effectiveness are shaped by its surrounding culture, environment, and adjacent elements.
+Concept/Big Idea: The central, unifying theme that drives all design decisions. It's the "what if?" that precedes the "how."
+Beauty/Aesthetics: The principle of pursuing pleasure, emotion, and sensory appeal through form, separate from pure function.
+Functionality: The principle that the design must work effectively to achieve its practical purpose (Form vs. Function is a core debate).
+Empathy: The principle of designing from the perspective of the user/audience, understanding their needs, feelings, and motivations.
+Truth to Materials: The principle that a material's innate qualities should be expressed, not hidden (e.g., letting concrete look like concrete, not painting it to look like marble).
+Advanced & Nuanced Visual Principles
+
+Visual Noise: The use of texture, grain, or chaotic elements to create a specific mood or aesthetic, often in opposition to "clean" design.
+Dissonance: The intentional use of clashing elements to create unease, tension, or to challenge the viewer.
+Ephemerality: The principle of designing for a temporary or transient experience.
+Kinesthetics: The study and principle of how the human body interacts with and moves through space, crucial for product and environmental design.
+So, to answer your question directly: No, that is not "it." The list is never truly complete. Mastery doesn't come from memorizing a definitive checklist, but from understanding the core relationships (like Figure/Ground and Contrast) and then learning how to apply, combine, and even break these principles with Intention to serve a specific Concept for a particular Context.
+
+The principles are a toolkit and a language, not a prison. The most innovative design often happens in the spaces between these established principles.
+we need to be technically specific lets zoom in more
+Of course. Let's zoom in to a highly technical level, focusing on specific measurable properties, rendering techniques, and formal relationships. These are the parameters a designer or developer would manipulate directly in software.
+
+Technical Visual & Spatial Properties
+
+A. Geometric & Mathematical Properties
+
+Vertex: A point defining the corner of a polygon.
+Edge: The line segment connecting two vertices.
+Face: The planar surface enclosed by a set of edges.
+Normal: A vector perpendicular to a surface, defining its orientation for lighting calculations.
+Bézier Curve: A parametric curve defined by control points, fundamental for vector graphics and font design.
+NURBS (Non-Uniform Rational B-Spline): A mathematical model for generating and representing curves and surfaces.
+Mesh Topology: The arrangement of vertices, edges, and faces in a 3D model.
+Subdivision Surface: A method of creating a smooth surface by recursively subdividing a coarse polygon mesh.
+Boolean Operation: A geometric operation (Union, Difference, Intersection) to combine or subtract shapes.
+Tessellation: The process of subdividing a surface into smaller polygons (often triangles) for rendering.
+B. Color & Light Properties (Technical)
+11. Chromaticity: The quality of a color regardless of its luminance, defined by its hue and saturation.
+12. Gamut: The complete subset of colors that can be represented or reproduced by a given system (e.g., sRGB, Adobe RGB, P3).
+13. Gamma Correction: A nonlinear operation used to encode and decode luminance in image systems, compensating for the nonlinear response of displays and human vision.
+14. Bit Depth: The number of bits used to represent the color of a single pixel (e.g., 8-bit, 16-bit), determining the total number of possible colors.
+15. Hexachrome: A six-color printing process (adding orange and green to CMYK) for an extended gamut.
+16. Metamerism: The phenomenon where two colors match under one light source but not under another.
+17. ICC Profile: A standardized data set that characterizes the color attributes of a device, used for color management.
+18. Alpha Channel: A separate channel in an image or renderer that defines transparency levels per pixel (0-100%).
+19. Specularity: The intensity and sharpness of the highlight on a reflective surface.
+20. Subsurface Scattering: The effect of light penetrating a translucent surface, scattering internally, and exiting at a different point (critical for rendering skin, wax, marble).
+
+C. Layout & Composition Properties (Technical)
+21. Aspect Ratio: The proportional relationship between an element's width and height (e.g., 16:9, 1:1, 4:3).
+22. Modular Scale: A sequence of numbers (for type sizes, spacing) derived from a ratio (e.g., the golden ratio, 1:1.618) to create visual harmony.
+23. Baseline Grid: A grid of horizontal lines used to align the baselines of text across a layout.
+24. Gutter: The fixed space between columns in a multi-column layout.
+25. Margin/Padding: In CSS box model terms, margin is the space outside an element's border, padding is the space inside the border, around the content.
+26. Viewport: The user's visible area of a web page or application, which changes with the device.
+27. Constraint-Based Layout: A system where UI elements are positioned based on mathematical relationships to their container or other elements (e.g., "always 10px from the right edge").
+28. F-Layout / Z-Layout: Eye-tracking based patterns that describe how users typically scan a web page.
+29. Optical Alignment: The adjustment of element placement to appear aligned, as opposed to being mathematically aligned (e.g., hanging punctuation).
+
+D. Typography Properties (Technical)
+30. X-Height: The height of a lowercase 'x' in a typeface, which defines the perceived size and legibility of the font.
+31. Cap Height: The height of a capital letter from the baseline.
+32. Ascender/Descender: The parts of lowercase letters that extend above the x-height (ascender, as in 'h') or below the baseline (descender, as in 'p').
+33. Counter: The fully or partially enclosed space within a character (e.g., the inside of an 'o' or 'e').
+34. Serif Classification: Specific technical categories like Humanist, Garalde, Didone, Slab Serif, etc.
+35. Hinting: The use of mathematical instructions to adjust the display of a font's outline so it renders clearly at small sizes on pixel-based displays.
+36. Kerning Pair: A specific, stored adjustment (or lack thereof) for a specific pair of characters (e.g., "AV", "To").
+37. Ligature: A single glyph that replaces a sequence of characters (e.g., "fi", "fl") to improve readability and aesthetics.
+38. OpenType Features: The technical capabilities of a font, including discretionary ligatures, stylistic alternates, small caps, and tabular figures.
+
+E. Image & Rendering Properties
+39. Resolution (PPI/DPI): Pixels Per Inch (digital) or Dots Per Inch (print) defining the density of image information.
+40. Anti-aliasing: The technique of smoothing jagged edges on digital curves and diagonals by adding transitional pixels.
+41. Compression Algorithm: The method for reducing file size (e.g., Lossless: PNG; Lossy: JPEG; with quality settings).
+42. Mipmapping: The creation of pre-filtered, lower-resolution versions of a texture to improve rendering speed and quality at a distance.
+43. Ray Tracing: A rendering technique for generating an image by simulating the path of light as pixels in an image plane.
+44. Global Illumination: A rendering algorithm that simulates how light reflects off surfaces to illuminate other surfaces (indirect lighting).
+45. Bump Mapping: A technique for simulating small-scale surface detail without altering the actual geometry, using a grayscale map to perturb surface normals.
+46. Voxel: A value on a regular grid in 3D space; the 3D equivalent of a pixel.
+47. Parallax: The apparent displacement of an object when viewed from different lines of sight, used to create a sense of depth.
+48. Chromatic Aberration: The failure of a lens to focus all colors to the same convergence point, often simulated as a visual effect.
+49. Dithering: The intentional use of noise (color or pattern) to reduce the appearance of color banding in gradients.
+50. Clipping Path: A closed vector path used to cut out a 2D image, defining what is visible and what is transparent.
+
+This list moves from the foundational principles of design to the specific, technical levers one would adjust in a professional software environment like a 3D modeling suite, a graphics editor, a CSS file, or a game engine.
+which are most relevant: You are a Svelte expert tasked to build components and utilities for Svelte developers. If you need documentation for anything related to Svelte you can invoke the tool `get_documentation` with one of the following paths:
+<available-docs>
+
+- title: Overview, use_cases: project setup, creating new svelte apps, scaffolding, cli tools, initializing projects, path: cli/overview
+- title: Frequently asked questions, use_cases: project setup, initializing new svelte projects, troubleshooting cli installation, package manager configuration, path: cli/faq
+- title: sv create, use_cases: project setup, starting new sveltekit app, initializing project, creating from playground, choosing project template, path: cli/sv-create
+- title: sv add, use_cases: project setup, adding features to existing projects, integrating tools, testing setup, styling setup, authentication, database setup, deployment adapters, path: cli/sv-add
+- title: sv check, use_cases: code quality, ci/cd pipelines, error checking, typescript projects, pre-commit hooks, finding unused css, accessibility auditing, production builds, path: cli/sv-check
+- title: sv migrate, use_cases: migration, upgrading svelte versions, upgrading sveltekit versions, modernizing codebase, svelte 3 to 4, svelte 4 to 5, sveltekit 1 to 2, adopting runes, refactoring deprecated apis, path: cli/sv-migrate
+- title: devtools-json, use_cases: development setup, chrome devtools integration, browser-based editing, local development workflow, debugging setup, path: cli/devtools-json
+- title: drizzle, use_cases: database setup, sql queries, orm integration, data modeling, postgresql, mysql, sqlite, server-side data access, database migrations, type-safe queries, path: cli/drizzle
+- title: eslint, use_cases: code quality, linting, error detection, project setup, code standards, team collaboration, typescript projects, path: cli/eslint
+- title: lucia, use_cases: authentication, login systems, user management, registration pages, session handling, auth setup, path: cli/lucia
+- title: mcp, use_cases: use title and path to estimate use case, path: cli/mcp
+- title: mdsvex, use_cases: blog, content sites, markdown rendering, documentation sites, technical writing, cms integration, article pages, path: cli/mdsvex
+- title: paraglide, use_cases: internationalization, multi-language sites, i18n, translation, localization, language switching, global apps, multilingual content, path: cli/paraglide
+- title: playwright, use_cases: browser testing, e2e testing, integration testing, test automation, quality assurance, ci/cd pipelines, testing user flows, path: cli/playwright
+- title: prettier, use_cases: code formatting, project setup, code style consistency, team collaboration, linting configuration, path: cli/prettier
+- title: storybook, use_cases: component development, design systems, ui library, isolated component testing, documentation, visual testing, component showcase, path: cli/storybook
+- title: sveltekit-adapter, use_cases: deployment, production builds, hosting setup, choosing deployment platform, configuring adapters, static site generation, node server, vercel, cloudflare, netlify, path: cli/sveltekit-adapter
+- title: tailwindcss, use_cases: project setup, styling, css framework, rapid prototyping, utility-first css, design systems, responsive design, adding tailwind to svelte, path: cli/tailwind
+- title: vitest, use_cases: testing, unit tests, component testing, test setup, quality assurance, ci/cd pipelines, test-driven development, path: cli/vitest
+- title: Introduction, use_cases: learning sveltekit, project setup, understanding framework basics, choosing between svelte and sveltekit, getting started with full-stack apps, path: kit/introduction
+- title: Creating a project, use_cases: project setup, starting new sveltekit app, initial development environment, first-time sveltekit users, scaffolding projects, path: kit/creating-a-project
+- title: Project types, use_cases: deployment, project setup, choosing adapters, ssg, spa, ssr, serverless, mobile apps, desktop apps, pwa, offline apps, browser extensions, separate backend, docker containers, path: kit/project-types
+- title: Project structure, use_cases: project setup, understanding file structure, organizing code, starting new project, learning sveltekit basics, path: kit/project-structure
+- title: Web standards, use_cases: always, any sveltekit project, data fetching, forms, api routes, server-side rendering, deployment to various platforms, path: kit/web-standards
+- title: Routing, use_cases: routing, navigation, multi-page apps, project setup, file structure, api endpoints, data loading, layouts, error pages, always, path: kit/routing
+- title: Loading data, use_cases: data fetching, api calls, database queries, dynamic routes, page initialization, loading states, authentication checks, ssr data, form data, content rendering, path: kit/load
+- title: Form actions, use_cases: forms, user input, data submission, authentication, login systems, user registration, progressive enhancement, validation errors, path: kit/form-actions
+- title: Page options, use_cases: prerendering static sites, ssr configuration, spa setup, client-side rendering control, url trailing slash handling, adapter deployment config, build optimization, path: kit/page-options
+- title: State management, use_cases: sveltekit, server-side rendering, ssr, state management, authentication, data persistence, load functions, context api, navigation, component lifecycle, path: kit/state-management
+- title: Remote functions, use_cases: data fetching, server-side logic, database queries, type-safe client-server communication, forms, user input, mutations, authentication, crud operations, optimistic updates, path: kit/remote-functions
+- title: Building your app, use_cases: production builds, deployment preparation, build process optimization, adapter configuration, preview before deployment, path: kit/building-your-app
+- title: Adapters, use_cases: deployment, production builds, hosting setup, choosing deployment platform, configuring adapters, path: kit/adapters
+- title: Zero-config deployments, use_cases: deployment, production builds, hosting setup, choosing deployment platform, ci/cd configuration, path: kit/adapter-auto
+- title: Node servers, use_cases: deployment, production builds, node.js hosting, custom server setup, environment configuration, reverse proxy setup, docker deployment, systemd services, path: kit/adapter-node
+- title: Static site generation, use_cases: static site generation, ssg, prerendering, deployment, github pages, spa mode, blogs, documentation sites, marketing sites, path: kit/adapter-static
+- title: Single-page apps, use_cases: spa mode, single-page apps, client-only rendering, static hosting, mobile app wrappers, no server-side logic, adapter-static setup, fallback pages, path: kit/single-page-apps
+- title: Cloudflare, use_cases: deployment, cloudflare workers, cloudflare pages, hosting setup, production builds, serverless deployment, edge computing, path: kit/adapter-cloudflare
+- title: Cloudflare Workers, use_cases: deploying to cloudflare workers, cloudflare workers sites deployment, legacy cloudflare adapter, wrangler configuration, cloudflare platform bindings, path: kit/adapter-cloudflare-workers
+- title: Netlify, use_cases: deployment, netlify hosting, production builds, serverless functions, edge functions, static site hosting, path: kit/adapter-netlify
+- title: Vercel, use_cases: deployment, vercel hosting, production builds, serverless functions, edge functions, isr, image optimization, environment variables, path: kit/adapter-vercel
+- title: Writing adapters, use_cases: custom deployment, building adapters, unsupported platforms, adapter development, custom hosting environments, path: kit/writing-adapters
+- title: Advanced routing, use_cases: advanced routing, dynamic routes, file viewers, nested paths, custom 404 pages, url validation, route parameters, multi-level navigation, path: kit/advanced-routing
+- title: Hooks, use_cases: authentication, logging, error tracking, request interception, api proxying, custom routing, internationalization, database initialization, middleware logic, session management, path: kit/hooks
+- title: Errors, use_cases: error handling, custom error pages, 404 pages, api error responses, production error logging, error tracking, type-safe errors, path: kit/errors
+- title: Link options, use_cases: routing, navigation, multi-page apps, performance optimization, link preloading, forms with get method, search functionality, focus management, scroll behavior, path: kit/link-options
+- title: Service workers, use_cases: offline support, pwa, caching strategies, performance optimization, precaching assets, network resilience, progressive web apps, path: kit/service-workers
+- title: Server-only modules, use_cases: api keys, environment variables, sensitive data protection, backend security, preventing data leaks, server-side code isolation, path: kit/server-only-modules
+- title: Snapshots, use_cases: forms, user input, preserving form data, multi-step forms, navigation state, preventing data loss, textarea content, input fields, comment systems, surveys, path: kit/snapshots
+- title: Shallow routing, use_cases: modals, dialogs, image galleries, overlays, history-driven ui, mobile-friendly navigation, photo viewers, lightboxes, drawer menus, path: kit/shallow-routing
+- title: Observability, use_cases: performance monitoring, debugging, observability, tracing requests, production diagnostics, analyzing slow requests, finding bottlenecks, monitoring server-side operations, path: kit/observability
+- title: Packaging, use_cases: building component libraries, publishing npm packages, creating reusable svelte components, library development, package distribution, path: kit/packaging
+- title: Auth, use_cases: authentication, login systems, user management, session handling, jwt tokens, protected routes, user credentials, authorization checks, path: kit/auth
+- title: Performance, use_cases: performance optimization, slow loading pages, production deployment, debugging performance issues, reducing bundle size, improving load times, path: kit/performance
+- title: Icons, use_cases: icons, ui components, styling, css frameworks, tailwind, unocss, performance optimization, dependency management, path: kit/icons
+- title: Images, use_cases: image optimization, responsive images, performance, hero images, product photos, galleries, cms integration, cdn setup, asset management, path: kit/images
+- title: Accessibility, use_cases: always, any sveltekit project, screen reader support, keyboard navigation, multi-page apps, client-side routing, internationalization, multilingual sites, path: kit/accessibility
+- title: SEO, use_cases: seo optimization, search engine ranking, content sites, blogs, marketing sites, public-facing apps, sitemaps, amp pages, meta tags, performance optimization, path: kit/seo
+- title: Frequently asked questions, use_cases: troubleshooting package imports, library compatibility issues, client-side code execution, external api integration, middleware setup, database configuration, view transitions, yarn configuration, path: kit/faq
+- title: Integrations, use_cases: project setup, css preprocessors, postcss, scss, sass, less, stylus, typescript setup, adding integrations, tailwind, testing, auth, linting, formatting, path: kit/integrations
+- title: Breakpoint Debugging, use_cases: debugging, breakpoints, development workflow, troubleshooting issues, vscode setup, ide configuration, inspecting code execution, path: kit/debugging
+- title: Migrating to SvelteKit v2, use_cases: migration, upgrading from sveltekit 1 to 2, breaking changes, version updates, path: kit/migrating-to-sveltekit-2
+- title: Migrating from Sapper, use_cases: migrating from sapper, upgrading legacy projects, sapper to sveltekit conversion, project modernization, path: kit/migrating
+- title: Additional resources, use_cases: troubleshooting, getting help, finding examples, learning sveltekit, project templates, common issues, community support, path: kit/additional-resources
+- title: Glossary, use_cases: rendering strategies, performance optimization, deployment configuration, seo requirements, static sites, spas, server-side rendering, prerendering, edge deployment, pwa development, path: kit/glossary
+- title: @sveltejs/kit, use_cases: forms, form actions, server-side validation, form submission, error handling, redirects, json responses, http errors, server utilities, path: kit/@sveltejs-kit
+- title: @sveltejs/kit/hooks, use_cases: middleware, request processing, authentication chains, logging, multiple hooks, request/response transformation, path: kit/@sveltejs-kit-hooks
+- title: @sveltejs/kit/node/polyfills, use_cases: node.js environments, custom servers, non-standard runtimes, ssr setup, web api compatibility, polyfill requirements, path: kit/@sveltejs-kit-node-polyfills
+- title: @sveltejs/kit/node, use_cases: node.js adapter, custom server setup, http integration, streaming files, node deployment, server-side rendering with node, path: kit/@sveltejs-kit-node
+- title: @sveltejs/kit/vite, use_cases: project setup, vite configuration, initial sveltekit setup, build tooling, path: kit/@sveltejs-kit-vite
+- title: $app/environment, use_cases: always, conditional logic, client-side code, server-side code, build-time logic, prerendering, development vs production, environment detection, path: kit/$app-environment
+- title: $app/forms, use_cases: forms, user input, data submission, progressive enhancement, custom form handling, form validation, path: kit/$app-forms
+- title: $app/navigation, use_cases: routing, navigation, multi-page apps, programmatic navigation, data reloading, preloading, shallow routing, navigation lifecycle, scroll handling, view transitions, path: kit/$app-navigation
+- title: $app/paths, use_cases: static assets, images, fonts, public files, base path configuration, subdirectory deployment, cdn setup, asset urls, links, navigation, path: kit/$app-paths
+- title: $app/server, use_cases: remote functions, server-side logic, data fetching, form handling, api endpoints, client-server communication, prerendering, file reading, batch queries, path: kit/$app-server
+- title: $app/state, use_cases: routing, navigation, multi-page apps, loading states, url parameters, form handling, error states, version updates, page metadata, shallow routing, path: kit/$app-state
+- title: $app/stores, use_cases: legacy projects, sveltekit pre-2.12, migration from stores to runes, maintaining older codebases, accessing page data, navigation state, app version updates, path: kit/$app-stores
+- title: $app/types, use_cases: routing, navigation, type safety, route parameters, dynamic routes, link generation, pathname validation, multi-page apps, path: kit/$app-types
+- title: $env/dynamic/private, use_cases: api keys, secrets management, server-side config, environment variables, backend logic, deployment-specific settings, private data handling, path: kit/$env-dynamic-private
+- title: $env/dynamic/public, use_cases: environment variables, client-side config, runtime configuration, public api keys, deployment-specific settings, multi-environment apps, path: kit/$env-dynamic-public
+- title: $env/static/private, use_cases: server-side api keys, backend secrets, database credentials, private configuration, build-time optimization, server endpoints, authentication tokens, path: kit/$env-static-private
+- title: $env/static/public, use_cases: environment variables, public config, client-side data, api endpoints, build-time configuration, public constants, path: kit/$env-static-public
+- title: $lib, use_cases: project setup, component organization, importing shared components, reusable ui elements, code structure, path: kit/$lib
+- title: $service-worker, use_cases: offline support, pwa, service workers, caching strategies, progressive web apps, offline-first apps, path: kit/$service-worker
+- title: Configuration, use_cases: project setup, configuration, adapters, deployment, build settings, environment variables, routing customization, prerendering, csp security, csrf protection, path configuration, typescript setup, path: kit/configuration
+- title: Command Line Interface, use_cases: project setup, typescript configuration, generated types, ./$types imports, initial project configuration, path: kit/cli
+- title: Types, use_cases: typescript, type safety, route parameters, api endpoints, load functions, form actions, generated types, jsconfig setup, path: kit/types
+- title: Overview, use_cases: use title and path to estimate use case, path: mcp/overview
+- title: Local setup, use_cases: use title and path to estimate use case, path: mcp/local-setup
+- title: Remote setup, use_cases: use title and path to estimate use case, path: mcp/remote-setup
+- title: Tools, use_cases: use title and path to estimate use case, path: mcp/tools
+- title: Resources, use_cases: use title and path to estimate use case, path: mcp/resources
+- title: Prompts, use_cases: use title and path to estimate use case, path: mcp/prompts
+- title: Overview, use_cases: always, any svelte project, getting started, learning svelte, introduction, project setup, understanding framework basics, path: svelte/overview
+- title: Getting started, use_cases: project setup, starting new svelte project, initial installation, choosing between sveltekit and vite, editor configuration, path: svelte/getting-started
+- title: .svelte files, use_cases: always, any svelte project, component creation, project setup, learning svelte basics, path: svelte/svelte-files
+- title: .svelte.js and .svelte.ts files, use_cases: shared reactive state, reusable reactive logic, state management across components, global stores, custom reactive utilities, path: svelte/svelte-js-files
+- title: What are runes?, use_cases: always, any svelte 5 project, understanding core syntax, learning svelte 5, migration from svelte 4, path: svelte/what-are-runes
+- title: $state, use_cases: always, any svelte project, core reactivity, state management, counters, forms, todo apps, interactive ui, data updates, class-based components, path: svelte/$state
+- title: $derived, use_cases: always, any svelte project, computed values, reactive calculations, derived data, transforming state, dependent values, path: svelte/$derived
+- title: $effect, use_cases: canvas drawing, third-party library integration, dom manipulation, side effects, intervals, timers, network requests, analytics tracking, path: svelte/$effect
+- title: $props, use_cases: always, any svelte project, passing data to components, component communication, reusable components, component props, path: svelte/$props
+- title: $bindable, use_cases: forms, user input, two-way data binding, custom input components, parent-child communication, reusable form fields, path: svelte/$bindable
+- title: $inspect, use_cases: debugging, development, tracking state changes, reactive state monitoring, troubleshooting reactivity issues, path: svelte/$inspect
+- title: $host, use_cases: custom elements, web components, dispatching custom events, component library, framework-agnostic components, path: svelte/$host
+- title: Basic markup, use_cases: always, any svelte project, basic markup, html templating, component structure, attributes, events, props, text rendering, path: svelte/basic-markup
+- title: {#if ...}, use_cases: always, conditional rendering, showing/hiding content, dynamic ui, user permissions, loading states, error handling, form validation, path: svelte/if
+- title: {#each ...}, use_cases: always, lists, arrays, iteration, product listings, todos, tables, grids, dynamic content, shopping carts, user lists, comments, feeds, path: svelte/each
+- title: {#key ...}, use_cases: animations, transitions, component reinitialization, forcing component remount, value-based ui updates, resetting component state, path: svelte/key
+- title: {#await ...}, use_cases: async data fetching, api calls, loading states, promises, error handling, lazy loading components, dynamic imports, path: svelte/await
+- title: {#snippet ...}, use_cases: reusable markup, component composition, passing content to components, table rows, list items, conditional rendering, reducing duplication, path: svelte/snippet
+- title: {@render ...}, use_cases: reusable ui patterns, component composition, conditional rendering, fallback content, layout components, slot alternatives, template reuse, path: svelte/@render
+- title: {@html ...}, use_cases: rendering html strings, cms content, rich text editors, markdown to html, blog posts, wysiwyg output, sanitized html injection, dynamic html content, path: svelte/@html
+- title: {@attach ...}, use_cases: tooltips, popovers, dom manipulation, third-party libraries, canvas drawing, element lifecycle, interactive ui, custom directives, wrapper components, path: svelte/@attach
+- title: {@const ...}, use_cases: computed values in loops, derived calculations in blocks, local variables in each iterations, complex list rendering, path: svelte/@const
+- title: {@debug ...}, use_cases: debugging, development, troubleshooting, tracking state changes, monitoring variables, reactive data inspection, path: svelte/@debug
+- title: bind:, use_cases: forms, user input, two-way data binding, interactive ui, media players, file uploads, checkboxes, radio buttons, select dropdowns, contenteditable, dimension tracking, path: svelte/bind
+- title: use:, use_cases: custom directives, dom manipulation, third-party library integration, tooltips, click outside, gestures, focus management, element lifecycle hooks, path: svelte/use
+- title: transition:, use_cases: animations, interactive ui, modals, dropdowns, notifications, conditional content, show/hide elements, smooth state changes, path: svelte/transition
+- title: in: and out:, use_cases: animation, transitions, interactive ui, conditional rendering, independent enter/exit effects, modals, tooltips, notifications, path: svelte/in-and-out
+- title: animate:, use_cases: sortable lists, drag and drop, reorderable items, todo lists, kanban boards, playlist editors, priority queues, animated list reordering, path: svelte/animate
+- title: style:, use_cases: dynamic styling, conditional styles, theming, dark mode, responsive design, interactive ui, component styling, path: svelte/style
+- title: class, use_cases: always, conditional styling, dynamic classes, tailwind css, component styling, reusable components, responsive design, path: svelte/class
+- title: await, use_cases: async data fetching, loading states, server-side rendering, awaiting promises in components, async validation, concurrent data loading, path: svelte/await-expressions
+- title: Scoped styles, use_cases: always, styling components, scoped css, component-specific styles, preventing style conflicts, animations, keyframes, path: svelte/scoped-styles
+- title: Global styles, use_cases: global styles, third-party libraries, css resets, animations, styling body/html, overriding component styles, shared keyframes, base styles, path: svelte/global-styles
+- title: Custom properties, use_cases: theming, custom styling, reusable components, design systems, dynamic colors, component libraries, ui customization, path: svelte/custom-properties
+- title: Nested <style> elements, use_cases: component styling, scoped styles, dynamic styles, conditional styling, nested style tags, custom styling logic, path: svelte/nested-style-elements
+- title: <svelte:boundary>, use_cases: error handling, async data loading, loading states, error recovery, flaky components, error reporting, resilient ui, path: svelte/svelte-boundary
+- title: <svelte:window>, use_cases: keyboard shortcuts, scroll tracking, window resize handling, responsive layouts, online/offline detection, viewport dimensions, global event listeners, path: svelte/svelte-window
+- title: <svelte:document>, use_cases: document events, visibility tracking, fullscreen detection, pointer lock, focus management, document-level interactions, path: svelte/svelte-document
+- title: <svelte:body>, use_cases: mouse tracking, hover effects, cursor interactions, global body events, drag and drop, custom cursors, interactive backgrounds, body-level actions, path: svelte/svelte-body
+- title: <svelte:head>, use_cases: seo optimization, page titles, meta tags, social media sharing, dynamic head content, multi-page apps, blog posts, product pages, path: svelte/svelte-head
+- title: <svelte:element>, use_cases: dynamic content, cms integration, user-generated content, configurable ui, runtime element selection, flexible components, path: svelte/svelte-element
+- title: <svelte:options>, use_cases: migration, custom elements, web components, legacy mode compatibility, runes mode setup, svg components, mathml components, css injection control, path: svelte/svelte-options
+- title: Stores, use_cases: shared state, cross-component data, reactive values, async data streams, manual control over updates, rxjs integration, extracting logic, path: svelte/stores
+- title: Context, use_cases: shared state, avoiding prop drilling, component communication, theme providers, user context, authentication state, configuration sharing, deeply nested components, path: svelte/context
+- title: Lifecycle hooks, use_cases: component initialization, cleanup tasks, timers, subscriptions, dom measurements, chat windows, autoscroll features, migration from svelte 4, path: svelte/lifecycle-hooks
+- title: Imperative component API, use_cases: project setup, client-side rendering, server-side rendering, ssr, hydration, testing, programmatic component creation, tooltips, dynamic mounting, path: svelte/imperative-component-api
+- title: Testing, use_cases: testing, quality assurance, unit tests, integration tests, component tests, e2e tests, vitest setup, playwright setup, test automation, path: svelte/testing
+- title: TypeScript, use_cases: typescript setup, type safety, component props typing, generic components, wrapper components, dom type augmentation, project configuration, path: svelte/typescript
+- title: Custom elements, use_cases: web components, custom elements, component library, design system, framework-agnostic components, embedding svelte in non-svelte apps, shadow dom, path: svelte/custom-elements
+- title: Svelte 4 migration guide, use_cases: upgrading svelte 3 to 4, version migration, updating dependencies, breaking changes, legacy project maintenance, path: svelte/v4-migration-guide
+- title: Svelte 5 migration guide, use_cases: migrating from svelte 4 to 5, upgrading projects, learning svelte 5 syntax changes, runes migration, event handler updates, path: svelte/v5-migration-guide
+- title: Frequently asked questions, use_cases: getting started, learning svelte, beginner setup, project initialization, vs code setup, formatting, testing, routing, mobile apps, troubleshooting, community support, path: svelte/faq
+- title: svelte, use_cases: migration from svelte 4 to 5, upgrading legacy code, component lifecycle hooks, context api, mounting components, event dispatchers, typescript component types, path: svelte/svelte
+- title: svelte/action, use_cases: typescript types, actions, use directive, dom manipulation, element lifecycle, custom behaviors, third-party library integration, path: svelte/svelte-action
+- title: svelte/animate, use_cases: animated lists, sortable items, drag and drop, reordering elements, todo lists, kanban boards, playlist management, smooth position transitions, path: svelte/svelte-animate
+- title: svelte/attachments, use_cases: library development, component libraries, programmatic element manipulation, migrating from actions to attachments, spreading props onto elements, path: svelte/svelte-attachments
+- title: svelte/compiler, use_cases: build tools, custom compilers, ast manipulation, preprocessors, code transformation, migration scripts, syntax analysis, bundler plugins, dev tools, path: svelte/svelte-compiler
+- title: svelte/easing, use_cases: animations, transitions, custom easing, smooth motion, interactive ui, modals, dropdowns, carousels, page transitions, scroll effects, path: svelte/svelte-easing
+- title: svelte/events, use_cases: window events, document events, global event listeners, event delegation, programmatic event handling, cleanup functions, media queries, path: svelte/svelte-events
+- title: svelte/legacy, use_cases: migration from svelte 4 to svelte 5, upgrading legacy code, event modifiers, class components, imperative component instantiation, path: svelte/svelte-legacy
+- title: svelte/motion, use_cases: animation, smooth transitions, interactive ui, sliders, counters, physics-based motion, drag gestures, accessibility, reduced motion, path: svelte/svelte-motion
+- title: svelte/reactivity/window, use_cases: responsive design, viewport tracking, scroll effects, window resize handling, online/offline detection, zoom level tracking, path: svelte/svelte-reactivity-window
+- title: svelte/reactivity, use_cases: reactive data structures, state management with maps/sets, game boards, selection tracking, url manipulation, query params, real-time clocks, media queries, responsive design, path: svelte/svelte-reactivity
+- title: svelte/server, use_cases: server-side rendering, ssr, static site generation, seo optimization, initial page load, pre-rendering, node.js server, custom server setup, path: svelte/svelte-server
+- title: svelte/store, use_cases: state management, shared data, reactive stores, cross-component communication, global state, computed values, data synchronization, legacy svelte projects, path: svelte/svelte-store
+- title: svelte/transition, use_cases: animations, transitions, interactive ui, modals, dropdowns, tooltips, notifications, svg animations, list animations, page transitions, path: svelte/svelte-transition
+- title: Compiler errors, use_cases: animation, transitions, keyed each blocks, list animations, path: svelte/compiler-errors
+- title: Compiler warnings, use_cases: accessibility, a11y compliance, wcag standards, screen readers, keyboard navigation, aria attributes, semantic html, interactive elements, path: svelte/compiler-warnings
+- title: Runtime errors, use_cases: debugging errors, error handling, troubleshooting runtime issues, migration to svelte 5, component binding, effects and reactivity, path: svelte/runtime-errors
+- title: Runtime warnings, use_cases: debugging state proxies, console logging reactive values, inspecting state changes, development troubleshooting, path: svelte/runtime-warnings
+- title: Overview, use_cases: migrating from svelte 3/4 to svelte 5, maintaining legacy components, understanding deprecated features, gradual upgrade process, path: svelte/legacy-overview
+- title: Reactive let/var declarations, use_cases: migration, legacy svelte projects, upgrading from svelte 4, understanding old reactivity, maintaining existing code, learning runes differences, path: svelte/legacy-let
+- title: Reactive $: statements, use_cases: legacy mode, migration from svelte 4, reactive statements, computed values, derived state, side effects, path: svelte/legacy-reactive-assignments
+- title: export let, use_cases: legacy mode, migration from svelte 4, maintaining older projects, component props without runes, exporting component methods, renaming reserved word props, path: svelte/legacy-export-let
+- title: $$props and $$restProps, use_cases: legacy mode migration, component wrappers, prop forwarding, button components, reusable ui components, spreading props to child elements, path: svelte/legacy-$$props-and-$$restProps
+- title: on:, use_cases: legacy mode, event handling, button clicks, forms, user interactions, component communication, event forwarding, event modifiers, path: svelte/legacy-on
+- title: <slot>, use_cases: legacy mode, migrating from svelte 4, component composition, reusable components, passing content to components, modals, layouts, wrappers, path: svelte/legacy-slots
+- title: $$slots, use_cases: legacy mode, conditional slot rendering, optional content sections, checking if slots provided, migrating from legacy to runes, path: svelte/legacy-$$slots
+- title: <svelte:fragment>, use_cases: named slots, component composition, layout systems, avoiding wrapper divs, legacy svelte projects, slot content organization, path: svelte/legacy-svelte-fragment
+- title: <svelte:component>, use_cases: dynamic components, component switching, conditional rendering, legacy mode migration, tabbed interfaces, multi-step forms, path: svelte/legacy-svelte-component
+- title: <svelte:self>, use_cases: recursive components, tree structures, nested menus, file explorers, comment threads, hierarchical data, path: svelte/legacy-svelte-self
+- title: Imperative component API, use_cases: migration from svelte 3/4 to 5, legacy component api, maintaining old projects, understanding deprecated patterns, path: svelte/legacy-component-api
+
+</available-docs>
+
+Every time you write a Svelte component or a Svelte module you MUST invoke the `svelte-autofixer` tool providing the code. The tool will return a list of issues or suggestions. If there are any issues or suggestions you MUST fix them and call the tool again with the updated code. You MUST keep doing this until the tool returns no issues or suggestions. Only then you can return the code to the user.
+
+This is the task you will work on:
+
+<task>
+[YOUR TASK HERE]
+</task>
+
+If you are not writing the code into a file, once you have the final version of the code ask the user if it wants to generate a playground link to quickly check the code in it and if it answer yes call the `playground-link` tool and return the url to the user nicely formatted. The playground link MUST be generated only once you have the final version of the code and you are ready to share it, it MUST include an entry point file called `App.svelte` where the main component should live. If you have multiple files to include in the playground link you can include them all at the root.
+I understand you're looking for the most relevant visual and spatial principles specifically for building Svelte components and utilities. Given my role as a Svelte expert, let me identify which principles from our extensive list are most critical for component development.
+
+Most Relevant Visual & Spatial Principles for Svelte Component Development
+
+Core Layout & Composition Principles
+
+Layout - Component structure and organization
+Proximity - Grouping related elements
+Alignment - Precise element positioning
+Grid Systems - Consistent component layouts
+Hierarchy - Visual importance signaling
+Contrast - Differentiating elements
+White Space - Component breathing room
+Balance - Visual weight distribution
+Technical Implementation Principles
+
+Aspect Ratio - Responsive component constraints
+Modular Scale - Consistent sizing systems
+Constraint-Based Layout - Responsive design foundations
+Viewport - Adaptive component behavior
+Pixel Precision - Sharp rendering
+Interactive & State Principles
+
+Scale - Component size relationships
+Zoom - Focus and detail management
+Transformation - State transitions and animations
+Timing - Animation and interaction speed
+Easing - Natural motion curves
+Content & Typography Principles
+
+Readability - Text clarity in components
+Legibility - Character distinction
+Kerning/Tracking - Text spacing control
+Leading - Line height management
+Advanced Svelte-Specific Principles
+
+Reactivity - State synchronization (Svelte's $state, $derived)
+Component Composition - ($props, snippets, slots)
+Transition & Animation - (Svelte's built-in transition system)
+These principles directly translate to Svelte component APIs, prop interfaces, and implementation patterns. They inform decisions about:
+
+Component prop design (size, spacing, layout props)
+CSS variable systems for theming
+Animation and transition APIs
+Responsive behavior patterns
+Composition patterns (slots, snippets, render props)
+However, I notice your task section appears to be empty. Could you please provide the specific component or utility you'd like me to build? I'm ready to apply these principles to create well-designed Svelte code that follows best practices.
+i mean from that prompt whuch elemets are most related to visual
+Based on the Svelte documentation prompt, here are the most visually-related elements and concepts:
+
+Core Visual Elements in Svelte
+
+Direct Visual Controls
+
+style: - Dynamic styling, conditional styles, theming
+class - Conditional styling, dynamic classes, Tailwind CSS
+bind: - Two-way data binding for forms, inputs, media players
+Scoped styles - Component-specific CSS, animations, keyframes
+Global styles - CSS resets, shared animations, base styles
+Custom properties - Theming, dynamic colors, design systems
+Visual Structure & Layout
+
+<svelte:element> - Dynamic content, configurable UI
+{#if ...} - Conditional rendering, showing/hiding content
+{#each ...} - Lists, grids, dynamic content rendering
+{#snippet ...} - Reusable markup patterns
+{@render ...} - Component composition, template reuse
+Visual Effects & Animation
+
+transition: - Animations, modals, dropdowns, notifications
+in: and out: - Independent enter/exit effects
+animate: - Sortable lists, drag and drop, reordering
+svelte/easing - Custom easing, smooth motion
+svelte/motion - Physics-based motion, smooth transitions
+svelte/transition - Built-in transitions, custom animations
+Visual Content & Media
+
+{@html ...} - Rendering HTML strings, rich text, markdown
+Images - Image optimization, responsive images, galleries
+Icons - UI components, icon libraries, performance
+Visual DOM & Layout
+
+<svelte:window> - Scroll tracking, resize handling, viewport
+<svelte:document> - Document events, fullscreen detection
+<svelte:body> - Mouse tracking, hover effects, cursors
+<svelte:head> - Page titles, meta tags, SEO optimization
+Visual State & Reactivity
+
+$state - Core reactivity for visual state changes
+$derived - Computed values for visual calculations
+$effect - Side effects for DOM manipulation, third-party libraries
+Visual Component APIs
+
+use: - Custom directives for tooltips, gestures, focus management
+$props - Component configuration for visual appearance
+$bindable - Two-way binding for custom form components
+These are the most directly visual elements because they:
+
+Control appearance (colors, sizes, positioning)
+Handle animations and transitions
+Manage responsive behavior
+Control rendering of visual content
+Handle user interactions that have visual feedback
+Manage component composition and layout
+The visual principles we discussed earlier (layout, proximity, hierarchy, etc.) would be implemented USING these specific Svelte features and APIs.
+combine all the 75+ elements plus the visual elements from the prompt togetther
+I'll combine all 75+ visual/spatial principles with the Svelte-specific visual elements to create a comprehensive master list organized by category.
+
+MASTER LIST: 100+ Visual/Spatial Principles & Svelte Visual Elements
+
+A. FOUNDATIONAL DESIGN PRINCIPLES (25)
+
+Layout - Component structure and organization
+Proximity - Grouping related elements
+Ratio - Proportional relationships
+Form - Shape and structure
+Juxtaposition - Strategic placement for contrast
+Relativity - Contextual relationships
+Scale - Size relationships
+Zoom - Focus and detail levels
+Pixel - Fundamental unit of digital display
+Closure - Mind completes incomplete shapes
+Similarity - Related elements share visual traits
+Continuation - Eye follows visual paths
+Common Fate - Elements moving together group
+Focal Point - Primary attention area
+Hierarchy - Visual importance signaling
+Balance - Visual weight distribution
+Contrast - Element differentiation
+Repetition - Consistent element reuse
+Rhythm - Patterned visual flow
+Pattern - Decorative repeating designs
+Alignment - Precise element positioning
+Grid - Structural organization system
+Modularity - Standardized unit design
+Figure/Ground - Subject/background relationship
+White Space - Breathing room and focus
+B. TECHNICAL VISUAL PROPERTIES (30)
+
+Vertex - Polygon corner points
+Edge - Line segments between vertices
+Face - Planar surfaces
+Normal - Surface orientation vectors
+Bézier Curve - Parametric curves for vectors
+NURBS - Complex curve/surface modeling
+Mesh Topology - 3D model structure
+Subdivision Surface - Smooth surface creation
+Boolean Operation - Shape combination/subtraction
+Tessellation - Surface subdivision for rendering
+Chromaticity - Color quality (hue + saturation)
+Gamut - Reproducible color range
+Gamma Correction - Luminance encoding
+Bit Depth - Color information capacity
+Hexachrome - Extended color printing
+Metamerism - Color matching under different light
+ICC Profile - Color management data
+Alpha Channel - Transparency levels
+Specularity - Surface highlight intensity
+Subsurface Scattering - Light penetration effects
+Aspect Ratio - Width/height proportions
+Modular Scale - Harmonious sizing systems
+Baseline Grid - Text alignment structure
+Gutter - Column spacing
+Margin/Padding - Space distribution (CSS box model)
+Viewport - Visible display area
+Constraint-Based Layout - Mathematical positioning
+F-Layout/Z-Layout - Eye-tracking patterns
+Optical Alignment - Perceived vs mathematical alignment
+Resolution (PPI/DPI) - Image density
+C. SVELTE-SPECIFIC VISUAL ELEMENTS (35)
+
+style: - Dynamic inline styling
+class - Dynamic class binding
+bind: - Two-way data binding
+Scoped styles - Component-specific CSS
+Global styles - Application-wide CSS
+Custom properties - CSS variables for theming
+Nested <style> elements - Conditional styling blocks
+<svelte:element> - Dynamic HTML elements
+{#if ...} - Conditional rendering
+{#each ...} - List rendering
+{#key ...} - Component reinitialization
+{#await ...} - Async state handling
+{#snippet ...} - Reusable markup templates
+{@render ...} - Template rendering
+{@html ...} - Raw HTML injection
+{@attach ...} - DOM manipulation directives
+{@const ...} - Local computed values
+{@debug ...} - Development debugging
+transition: - Element transitions
+in: and out: - Separate enter/exit transitions
+animate: - List animations
+use: - Custom actions/directives
+svelte/easing - Animation timing functions
+svelte/motion - Motion and physics
+svelte/transition - Built-in transitions
+Images - Optimized image handling
+Icons - Icon systems and management
+<svelte:window> - Window event binding
+<svelte:document> - Document event binding
+<svelte:body> - Body event binding
+<svelte:head> - Head content management
+$state - Reactive state management
+$derived - Computed reactive values
+$effect - Side effects and DOM manipulation
+$props - Component properties
+D. ADVANCED & COMPOSITION PRINCIPLES (20)
+
+Density - Element concentration
+Transparency - See-through layers
+Overlap - Depth and layering
+Unity/Harmony - Cohesive design feeling
+Variety - Intentional diversity
+Economy - Essential element use
+Movement - Visual flow direction
+Depth - 3D space illusion
+Texture - Surface quality perception
+Iteration - Cyclical refinement process
+Layering - Information level organization
+Transformation - State change principles
+Orchestration - Multi-principle synthesis
+Reduction - Simplification process
+Defamiliarization - Making familiar elements new
+Narrative - Visual storytelling
+Personality - Design character/voice
+Wayfinding - Spatial orientation guidance
+Signal-to-Noise Ratio - Relevant vs irrelevant information
+Chunking - Information grouping
+E. META & PHILOSOPHICAL PRINCIPLES (10+)
+
+Intention - Purposeful design decisions
+Context - Environmental influence
+Concept/Big Idea - Unifying design theme
+Beauty/Aesthetics - Sensory appeal pursuit
+Functionality - Practical purpose fulfillment
+Empathy - User perspective design
+Truth to Materials - Honest material expression
+Visual Noise - Intentional texture/chaos
+Dissonance - Intentional tension creation
+Ephemerality - Temporary experience design
+Kinesthetics - Body movement interaction
+This comprehensive list shows how foundational design principles translate into technical implementation (Svelte features) while maintaining higher-level conceptual frameworks. Each Svelte visual element serves as a concrete implementation tool for the abstract design principles.
+
+Total: 121 integrated visual/spatial principles and implementation tools
+
+Would you like me to organize these differently or focus on specific categories for your Svelte component development work?
+if you recieved that list an dwere tolld to implimetn them what would you do first
+If I received that massive list of 121 principles and was told to implement them, here's my systematic approach:
+
+PHASE 1: IMMEDIATE FOUNDATION (First 1-2 Days)
+
+Step 1: Categorize by Implementation Priority
+
+I'd immediately group them into:
+
+A. CORE SVELTE PRIMITIVES (Start here - direct implementation)
+
+$state, $derived, $effect - Reactive foundation
+style:, class - Basic styling
+{#if}, {#each} - Conditional/list rendering
+Scoped styles, Custom properties - CSS architecture
+B. VISUAL UTILITIES (Build next - reusable tools)
+
+Layout, Proximity, Alignment, Grid systems
+Typography (Readability, Hierarchy, Scale)
+Color systems (Contrast, Harmony)
+C. COMPONENT PATTERNS (Build with A+B)
+
+Transitions, Animations
+Responsive behaviors
+Composition patterns
+D. ADVANCED SYSTEMS (Implement last)
+
+Complex interactions, 3D, Advanced motion
+Step 2: Build the Reactive Foundation First
+
+svelte
+<!-- Start with core visual state management -->
+<script>
+  import { $state, $derived } from 'svelte'
+  
+  // Core visual state
+  const scale = $state(1)
+  const theme = $state('light')
+  const layout = $state('grid')
+  
+  // Derived visual properties
+  $derived(() => {
+    // Implement relativity, ratio, proportion calculations
+  })
+</script>
+Step 3: Create Visual Primitive Components
+
+I'd build these foundational components first:
+
+<VisualProvider> - Context for scale, theme, spacing
+<Box> - Layout primitive (margin, padding, alignment)
+<Stack> & <Grid> - Composition primitives
+<Text> - Typography primitive
+Step 4: Implement CSS Variable System
+
+css
+/* Design token system for multiple principles */
+:root {
+  /* Scale & Proportion */
+  --scale-ratio: 1.2;
+  --spacing-unit: 8px;
+  
+  /* Color & Contrast */
+  --color-primary: #0066cc;
+  --color-contrast-ratio: 4.5;
+  
+  /* Layout */
+  --grid-columns: 12;
+  --container-max-width: 1200px;
+}
+PHASE 2: PROGRESSIVE IMPLEMENTATION STRATEGY
+
+Week 1: Layout & Composition System
+
+Implement Layout, Grid, Alignment, Proximity
+Build Box, Stack, Grid, Container components
+Create spacing scale utilities
+Week 2: Typography & Color System
+
+Implement Hierarchy, Contrast, Readability
+Build Text, Heading, Link components
+Create color palette with accessibility
+Week 3: Interaction & Motion
+
+Implement Transitions, Animations, Timing
+Build Fade, Slide, Scale transition components
+Create gesture and state management
+Week 4+: Advanced Systems
+
+3D transformations (Vertex, Mesh, Perspective)
+Advanced color (Gamut, Subsurface scattering)
+Complex patterns (Wayfinding, Narrative)
+IMMEDIATE ACTION PLAN (First 4 hours):
+
+Set up design token system (30 min)
+Create <VisualRoot> component with context (1 hour)
+Build <Box> primitive with spacing scale (1 hour)
+Implement basic <Stack> and <Grid> (1.5 hours)
+KEY INSIGHT:
+
+I wouldn't try to implement all 121 at once. Instead, I'd build a foundation that makes the other principles emergent properties of the system.
+
+The most powerful approach: Start with the 20% of principles that enable 80% of the visual results - layout, typography, color, and reactivity.
+
+Would you like me to start implementing this foundation with actual Svelte code? I can begin with the core visual primitives and design token system.
+no im making a master prompt and need to include all but in a way best so the ai can understadn it
+Ah, you're creating a master prompt! You need to structure this massive list in a way that an AI can effectively understand and apply it. Here's the optimal organization strategy:
+
+MASTER PROMPT STRUCTURE FOR AI COMPREHENSION
+
+1. HIERARCHICAL ORGANIZATION (Critical for AI understanding)
+
+text
+VISUAL DESIGN SYSTEM
+├── FOUNDATIONAL PRINCIPLES (Core concepts)
+├── TECHNICAL IMPLEMENTATION (How-to)
+├── COMPONENT PATTERNS (Reusable solutions)
+├── VISUAL PROPERTIES (Adjustable parameters)
+└── QUALITY METRICS (Success criteria)
+2. CONTEXTUAL GROUPING (AI understands relationships)
+
+Group by "When to use" rather than just "What it is":
+
+Layout Problems → Layout, Grid, Alignment, Proximity
+Visual Hierarchy Problems → Contrast, Scale, Focal Point, Hierarchy
+Motion Problems → Transition, Timing, Easing, Animation
+Color Problems → Contrast, Harmony, Temperature, Gamut
+3. ACTION-ORIENTED WORDING (AI responds to verbs)
+
+Instead of: "Hierarchy - visual importance signaling"
+Use: "CREATE hierarchy by varying size, weight, and spacing"
+
+Instead of: "Proximity - grouping related elements"
+Use: "GROUP related elements using proximity and common regions"
+
+4. IMPLEMENTATION PRIORITY TAGS (AI knows what's core)
+
+text
+[ESSENTIAL] - Must implement first (20 principles)
+[ADVANCED] - Build after foundation (40 principles) 
+[SPECIALIZED] - Niche use cases (30 principles)
+[SYSTEM] - Meta-principles (31 principles)
+5. CROSS-REFERENCE MATRIX (AI connects concepts)
+
+Create relationships:
+
+Proximity ←→ Common Region ←→ White Space
+Contrast ←→ Hierarchy ←→ Focal Point
+Scale ←→ Ratio ←→ Modular Scale
+6. SVELTE-SPECIFIC MAPPING (Technical implementation)
+
+Map abstract principles to concrete Svelte features:
+
+Principle: "Create visual hierarchy"
+Svelte Implementation: Use $derived for size calculations, style:fontSize for dynamic scaling, {#if} for conditional importance
+7. EXAMPLE-BASED LEARNING (AI learns from patterns)
+
+For each principle group, include:
+
+text
+PRINCIPLE: Layout & Composition
+EXAMPLES:
+- Use CSS Grid for card layouts
+- Apply Flexbox for navigation bars  
+- Implement Constraint-based layout for responsive components
+SVELTE PATTERN: 
+<Layout columns={3} gap="var(--spacing-md)">
+  {#each items as item}
+    <Card>{item.content}</Card>
+  {/each}
+</Layout>
+8. DECISION TREES (AI knows when to apply what)
+
+text
+IF building layout → USE [Grid, Alignment, White Space, Proximity]
+IF solving visual clutter → USE [Contrast, Hierarchy, Focal Point, Reduction]  
+IF creating motion → USE [Timing, Easing, Transformation, Continuation]
+OPTIMAL MASTER PROMPT STRUCTURE:
+
+Section 1: CORE PRINCIPLES (20 most critical)
+
+Each with: Definition + Svelte Implementation + Example
+Section 2: IMPLEMENTATION GUIDE
+
+Grouped by problem type with solution patterns
+Section 3: TECHNICAL REFERENCE
+
+Svelte API mapping to design principles
+Section 4: QUALITY CHECKLIST
+
+"Does this component follow X principle?" questions
+Section 5: COMMON PATTERNS
+
+Pre-built solutions for frequent use cases
+The key is progressive disclosure - don't dump 121 principles at once. Structure it so the AI can access the right principles at the right time based on what it's trying to accomplish.
+
+Would you like me to show you how I'd structure the actual master prompt content using this framework?
+i want to see thefull master
+MASTER PROMPT: COMPREHENSIVE VISUAL DESIGN SYSTEM FOR COMPONENT DEVELOPMENT
+
+🎯 CORE MISSION
+
+You are a visual design expert implementing 121 visual/spatial principles in component systems. Use this framework to create visually excellent, systematically consistent interfaces.
+
+🏗️ ARCHITECTURE FRAMEWORK
+
+FOUNDATIONAL PRINCIPLES [ESSENTIAL - Implement First]
+
+Purpose: Establish the visual foundation that makes other principles emerge naturally.
+
+Layout - Organize elements in purposeful arrangements
+Proximity - Group related elements together
+Hierarchy - Establish visual importance through size, position, contrast
+Contrast - Create differentiation for clarity and emphasis
+Alignment - Position elements along common edges or axes
+Repetition - Reuse visual elements for consistency
+White Space - Use emptiness to define relationships and focus
+Balance - Distribute visual weight evenly
+Scale - Establish size relationships between elements
+Ratio - Maintain proportional relationships (golden ratio, etc.)
+IMPLEMENTATION PATTERN: Start every component with these 10 principles as your foundation.
+
+🎨 VISUAL PROPERTY SYSTEM
+
+COLOR & APPEARANCE [ESSENTIAL]
+
+Color Harmony - Combine colors pleasingly (complementary, analogous, triadic)
+Color Contrast - Ensure readability and accessibility (4.5:1 minimum)
+Value/Brightness - Control lightness/darkness for depth and emphasis
+Saturation - Adjust color intensity for vibrancy or subtlety
+Temperature - Use warm/cool colors for emotional impact
+Opacity/Transparency - Control see-through effects for layering
+Gradient - Create smooth color transitions
+Texture - Simulate surface qualities (rough, smooth, glossy)
+TYPOGRAPHY [ESSENTIAL]
+
+Readability - Ensure text is easy to read quickly
+Legibility - Make individual characters distinguishable
+Type Hierarchy - Establish clear heading levels and importance
+Line Length - Control measure for comfortable reading (45-75 characters)
+Line Height - Space between lines for readability (1.4-1.6 ratio)
+Letter Spacing - Adjust character spacing for tone and readability
+Font Weight - Use thickness variations for emphasis and hierarchy
+SPATIAL RELATIONSHIPS [ESSENTIAL]
+
+Margin/Padding - Control internal and external spacing
+Grid Systems - Organize content in structured columns and rows
+Aspect Ratio - Maintain proportional dimensions
+Density - Control information concentration per area
+Overlap - Create depth through element layering
+🔧 TECHNICAL IMPLEMENTATION
+
+SVELTE VISUAL PRIMITIVES [DIRECT MAPPING]
+
+Use these Svelte features to implement visual principles:
+
+style: - Dynamic styling for responsive visual properties
+class - Conditional styling states and variants
+bind: - Two-way data binding for interactive controls
+Scoped styles - Component-specific CSS encapsulation
+CSS Custom Properties - Design tokens for consistent theming
+{#if ...} - Conditional rendering for dynamic interfaces
+{#each ...} - List rendering for data visualization
+{#key ...} - Element reinitialization for state resets
+transition: - Smooth state changes and animations
+animate: - List reordering and spatial animations
+RESPONSIVE BEHAVIORS [ADAPTIVE]
+
+Viewport Adaptation - Adjust layouts for different screen sizes
+Constraint-Based Layout - Mathematical relationship positioning
+Fluid Typography - Scale text sizes proportionally
+Container Queries - Component-based responsive design
+Progressive Enhancement - Core functionality first, enhance when possible
+🎬 MOTION & INTERACTION
+
+ANIMATION PRINCIPLES [DYNAMIC]
+
+Timing - Control animation speed and duration
+Easing - Use acceleration curves for natural motion
+Transformation - Animate size, position, rotation changes
+Continuation - Guide eye movement through motion paths
+Anticipation - Prepare user for upcoming actions
+Follow-Through - Complete motions naturally with overshoot
+Staging - Present one primary action clearly
+Trajectory - Define clear motion paths
+INTERACTION DESIGN [INTERACTIVE]
+
+Affordance - Signal possible actions through visual cues
+Feedback - Provide immediate response to user actions
+Mapping - Create clear relationships between controls and effects
+Constraint - Limit interactions to prevent errors
+Consistency - Maintain predictable interaction patterns
+🧠 PERCEPTUAL PSYCHOLOGY
+
+GESTALT PRINCIPLES [AUTOMATIC GROUPING]
+
+Similarity - Elements sharing visual properties appear related
+Closure - Mind completes incomplete shapes automatically
+Common Fate - Elements moving together are perceived as grouped
+Common Region - Elements within boundaries appear related
+Focal Point - One dominant element captures attention first
+Figure/Ground - Distinguish subject from background clearly
+COGNITIVE PRINCIPLES [MENTAL MODELS]
+
+Chunking - Group information into meaningful units (3-4 items)
+Signal-to-Noise Ratio - Maximize relevant information, minimize clutter
+Progressive Disclosure - Reveal complexity gradually
+Wayfinding - Help users understand location and navigation
+Recognition Over Recall - Show options rather than require memorization
+🎪 ADVANCED VISUAL EFFECTS
+
+COMPOSITION & DEPTH [SPATIAL]
+
+Perspective - Create 3D space illusion through vanishing points
+Depth Cues - Use shadow, overlap, size to imply distance
+Layering - Organize information in stacked planes
+Shadow - Indicate elevation and spatial relationships
+Reflection - Simulate surface properties and environment
+Lighting - Define light sources and material responses
+SPECIALIZED TECHNIQUES [ADVANCED]
+
+Bézier Curves - Smooth parametric curves for graphics
+Mesh Topology - 3D surface structure and optimization
+Subsurface Scattering - Light penetration through materials
+Specularity - Surface shine and highlight properties
+Chromatic Aberration - Color fringe effects for stylization
+⚙️ TECHNICAL EXCELLENCE
+
+PERFORMANCE & QUALITY [OPTIMIZATION]
+
+Resolution Management - Serve appropriate image sizes
+Anti-aliasing - Smooth jagged edges on curves
+Compression Optimization - Balance quality and file size
+Rendering Performance - Maintain smooth frame rates
+Accessibility Compliance - Meet WCAG 2.1 AA standards
+COLOR SCIENCE [PRECISION]
+
+Gamut Management - Work within color space limitations
+Gamma Correction - Account for display nonlinearity
+Metamerism - Consider color appearance under different lighting
+ICC Profiles - Maintain color accuracy across devices
+Bit Depth - Preserve color information fidelity
+🌐 SYSTEM THINKING
+
+DESIGN SYSTEMS [SCALABLE]
+
+Modularity - Create reusable, interchangeable components
+Modular Scale - Establish harmonious size relationships
+Design Tokens - Centralize visual values for consistency
+Component API Design - Create intuitive component interfaces
+Composition Patterns - Build complex interfaces from simple parts
+ADAPTIVE SYSTEMS [CONTEXT-AWARE]
+
+Theme Switching - Support multiple visual themes (light/dark)
+Density Variants - Offer compact/normal/comfortable spacing
+Internationalization - Accommodate different languages and layouts
+Accessibility Modes - Support high contrast, reduced motion
+Platform Adaptation - Adjust for different devices and capabilities
+🧪 CREATIVE CONCEPTS
+
+ARTISTIC PRINCIPLES [EXPRESSIVE]
+
+Unity/Harmony - Create cohesive visual whole
+Variety - Introduce intentional diversity for interest
+Movement - Guide eye flow through composition
+Pattern - Create rhythm through repeated elements
+Economy - Use minimal elements for maximum effect
+NARRATIVE & EMOTION [ENGAGING]
+
+Visual Storytelling - Convey narrative through composition
+Personality/Voice - Express brand character visually
+Emotional Resonance - Evoke feelings through color, form, motion
+Surprise & Delight - Include unexpected positive moments
+Playfulness - Incorporate whimsy and interactive joy
+🔍 QUALITY ASSURANCE
+
+EVALUATION CRITERIA [VALIDATION]
+
+For every component, ask these questions:
+
+Intention - Is every element purposeful and justified?
+Context - Does this work in its intended environment?
+Consistency - Does this follow established patterns?
+Clarity - Is the meaning and function immediately understandable?
+Efficiency - Does this achieve its goal with minimal complexity?
+USER-CENTERED METRICS [VALIDATION]
+
+Learnability - Can users understand how to use it quickly?
+Efficiency - Can experienced users perform tasks rapidly?
+Memorability - Can users remember how to use it after time away?
+Error Prevention - Does it help users avoid mistakes?
+Satisfaction - Is the experience pleasant and engaging?
+Accessibility - Can everyone use this regardless of ability?
+🚀 IMPLEMENTATION WORKFLOW
+
+DECISION FRAMEWORK
+
+When designing any component, follow this process:
+
+ANALYZE CONTEXT → What problem are we solving? Who are the users?
+APPLY FOUNDATION → Use Principles 1-10 as your base
+SPECIFY PROPERTIES → Define color, typography, spacing (11-30)
+IMPLEMENT TECHNICAL → Use Svelte features appropriately (31-45)
+ADD INTERACTION → Consider motion and user feedback (46-58)
+OPTIMIZE PERCEPTION → Apply Gestalt and cognitive principles (59-69)
+ENHANCE VISUALLY → Consider depth and advanced effects (70-80)
+ENSURE QUALITY → Validate performance and accessibility (81-90)
+MAINTAIN SYSTEM → Follow design system patterns (91-100)
+ADD DELIGHT → Incorporate creative elements (101-110)
+VALIDATE EXPERIENCE → Check against quality criteria (111-121)
+PRIORITY GUIDANCE
+
+ESSENTIAL: Principles 1-30 + 111-115 (Foundation + Quality)
+IMPORTANT: Principles 31-70 (Implementation + Perception)
+ENHANCEMENT: Principles 71-110 (Advanced + Creative)
+VALIDATION: Principles 116-121 (User Experience Metrics)
+💡 PRO TIPS FOR AI IMPLEMENTATION
+
+Start with the 10 foundational principles - they enable all others
+Use the decision framework for systematic component development
+Reference Svelte mappings for concrete implementation guidance
+Validate with quality criteria before considering any component complete
+Progressive enhancement - build core functionality first, then enhance
+This master prompt gives you a complete visual design system that scales from basic layout to advanced creative expression while maintaining technical excellence and user-centered design.
+
